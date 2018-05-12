@@ -1,0 +1,53 @@
+_repo: The-Secret-of-the-Island_21489
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: THE SECRET OF THE ISLAND is the third book in the 'Mysterious Island'
+  trilogy (THE MYSTERIOUS ISLAND, and ABANDONED), and is related to 20,000 LEAGUES
+  UNDER THE SEA and THE SEARCH FOR THE CASTAWAYS. In THE SECRET OF THE ISLAND, A party
+  of British ballooners have crashed on a remote Pacific island. There they must contend
+  with both pirates and escaped convicts as they struggle to survive. However, as
+  in the earlier 'Island' novels, they come to realize that someone or something is
+  looking after them.
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Islands of the Pacific -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Castaways -- Fiction'
+title: The Secret of the Island
+url: http://www.gutenberg.org/ebooks/21489
